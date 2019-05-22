@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#136a36</color>
+    <color name="colorPrimaryDark">#080908</color>
+    <color name="colorPrimaryLight">#5DBA60</color>
+
+    <color name="colorAccent">#FFAF00</color>
+    <color name="colorAccentDark">#FFAF00</color>
+    <color name="colorAccentLight">#FFAF00</color>
+
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#263238</color>
+
+
+    <color name="colorPrice">#429E45</color>
+    <color name="colorAddCart">#FFB300</color>
+    <color name="colorRemoveCart">#666666</color>
+
+    <color name="colorWarning">#FF7043</color>
+    <color name="colorInfo">#5DBA60</color>
+
+    <color name="darkOverlay">#80000000</color>
+    <color name="darkOverlaySoft">#40000000</color>
+    <color name="whiteOverlay">#40FFFFFF</color>
+    <color name="btn_wa">#0cb631</color>
+    <color name="drawerHeaderColor">#FFED87</color>
+    <color name="drawerHeaderIcon">#666666</color>
+    <color name="white">#d2f7dc</color>
+    <color name="search">#effdf5</color>
+</resources>

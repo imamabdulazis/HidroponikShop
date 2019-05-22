@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jan 17 01:44:07 GMT+07:00 2019
+0.baseType=DIRECTORY
+0.base=D\:\\HidroponikSHop\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1

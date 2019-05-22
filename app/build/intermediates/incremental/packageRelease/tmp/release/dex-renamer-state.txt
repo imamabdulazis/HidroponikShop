@@ -1,0 +1,4 @@
+#Sat Jan 26 18:52:52 GMT+07:00 2019
+base.0=D\:\\HidroponikSHop\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

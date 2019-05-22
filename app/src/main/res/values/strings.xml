@@ -1,0 +1,217 @@
+<resources>
+    <string name="app_name">HDRPNK.</string>
+    <string name="app_tag_line">HIDROPONIKPEDIA</string>
+
+    <string name="title_about">About</string>
+    <string name="content_about">Hidroponik Toko Peralatan dan Nutrisi Hidroponik lengkap</string>
+
+    <string name="title_activity_news_info">News Info</string>
+    <string name="title_activity_notifications">Notifikasi</string>
+    <string name="title_activity_konfirm">Kirim kode pesan</string>
+    <string name="title_activity_wishlist">Favorit</string>
+    <string name="title_activity_cart">Keranjang belanja</string>
+    <string name="title_activity_checkout">Checkout</string>
+    <string name="title_activity_history">Catatan beli</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!--ADS UNIT ID  -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3397136890800435/4566183904</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3397136890800435/3089450708</string>
+
+    <!--All data for ActivityMain.java -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="str_nav_shopping_cart">Keranjang Belanja</string>
+    <string name="str_nav_wishlist">Favorit</string>
+    <string name="str_nav_history">Catatan Beli</string>
+    <string name="str_nav_news">News Info</string>
+    <string name="str_nav_notifications">Notifikasi</string>
+    <string name="sub_title_nav_others">Lainnya</string>
+    <string name="str_nav_instruction">Instruksi</string>
+    <string name="str_nav_wa">Kirim kode pesan</string>
+    <string name="str_nav_setting">Pengaturan</string>
+    <string name="press_again_exit_app">Press again to exit</string>
+
+    <string name="title_what_news">Artikel</string>
+    <string name="title_category">Kategori</string>
+
+    <!--All data for ActivityKategoriDetail.java -->
+    <string name="title_menu_search">Cari</string>
+    <string name="title_menu_delete">Hapus</string>
+    <!--All data for ActivityDetailProduk.java -->
+    <string name="please_wait_text">Silahkan tunggu loading selesai !</string>
+    <string name="categories_product">Kategori :&#160;</string>
+    <string name="cannot_add_wishlist">Tidak dapat menambahkan ke favorit !</string>
+    <string name="add_wishlist">Tambah ke favorit</string>
+    <string name="remove_wishlist">Hapus dari favorit</string>
+    <string name="add_cart">Berhasil tambah ke keranjang</string>
+    <string name="remove_cart">Berhasil hapus keranjang</string>
+    <string name="msg_out_of_stock">Ops,Produk Habis</string>
+    <string name="msg_suspend">Ops, Product is suspend</string>
+    <string name="out_of_stock">TELAH HABIS</string>
+    <string name="suspend">SUSPEND</string>
+    <string name="ready_stock">READY STOCK</string>
+    <string name="bt_add_cart">TAMBAH KE KERANJANG</string>
+    <string name="bt_remove_cart">HAPUS KERANJANG</string>
+
+    <!--All data for ActivitySplash.java -->
+    <string name="title_unable_connect">Gagal koneksi server</string>
+    <string name="msg_unable_connect">Server sedang down atau Maintanance</string>
+    <string name="msg_app_out_date">Aplikasi sudah usang. Silahkan update ke versi terbaru</string>
+    <string name="msg_no_internet">Cek koneksi Internet, dan coba lagi</string>
+    <string name="title_info">Informasi</string>
+    <string name="title_no_internet">Tidak ada koneksi internet</string>
+
+    <!--All data for ActivityFavorite.java -->
+    <string name="msg_wishlist_empty">favorit kosong</string>
+    <string name="title_menu_wishlist">favorit</string>
+
+    <!--All data for ActivityTasBelanja.java -->
+    <string name="msg_cart_empty">Keranjang belanja Kosong</string>
+    <string name="before_tax">( Belum termasuk ongkir )</string>
+    <string name="total">Total&#160;</string>
+    <string name="stock">Stock : &#160;</string>
+    <string name="QUANTITY">QUANTITY</string>
+    <string name="items">Item(s)</string>
+    <string name="title_menu_checkout">Checkout</string>
+
+    <!--All data for ActivitySearch.java -->
+    <string name="ALL">ALL</string>
+    <string name="Category">Kategori :&#160;</string>
+    <string name="hint_input_search">Cari produk</string>
+    <string name="please_fill">Silahkan masukkan kata</string>
+
+    <!--All data for ActivityCatatanPesan.java -->
+    <string name="msg_history_empty">Catatan beli kosong</string>
+    <string name="title_history_details">Detail catatan beli</string>
+
+    <!--All data for ActivityNotifikasi.java -->
+    <string name="msg_notif_empty">Notifikasi Kosong</string>
+
+    <!--All data for ActivityCheckout.java -->
+    <string name="cost_details">Detail Harga</string>
+    <string name="total_order">Total Beli :&#160;</string>
+    <string name="tax">Tax&#160;</string>
+    <string name="total_fess">Total Bayar :&#160;</string>
+    <string name="buyer_profile">Profil pembeli</string>
+    <string name="hint_name">Nama</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">No Telpon</string>
+    <string name="hint_address">Alamat</string>
+    <string name="hint_shipping">Jasa Pengiriman</string>
+    <string name="choose_shipping">Pilih Jasa</string>
+    <string name="hint_date_ship">Tanggal Pengiriman</string>
+    <string name="hint_comment">Keterangan</string>
+    <string name="product_order_list">Daftar Pesanan Produk</string>
+
+    <string name="invalid_name">invalid nama</string>
+    <string name="invalid_email">invalid email</string>
+    <string name="invalid_phone">invalid no telp</string>
+    <string name="invalid_address">invalid alamat</string>
+    <string name="invalid_shipping">invalid shipping</string>
+    <string name="invalid_date_ship">invalid tanggal shipping</string>
+    <string name="invalid_comment">invalid komentar</string>
+
+    <string name="title_please_wait">Silahkan tunggu</string>
+    <string name="content_submit_checkout">Submit Checkout&#8230;</string>
+    <string name="confirmation">Konfirmasi</string>
+    <string name="confirm_checkout">Apakah anda yakin ingin checkout pesanan?</string>
+    <string name="failed_checkout">
+        Oops, Gagal ketika checout
+        \n\nCek koneksi internet anda, or atau jika butuh bantuan silahkan hubungi CS : 081229765037
+    </string>
+    <string name="success_checkout">Selamat</string>
+    <string name="msg_success_checkout">
+        Berhasil melakukan proses checkout.\nKode pesanan : %1$s\n\nPesanan anda akan segera kami antar. Silahkan salin kode pesanan, kemudian konfirmasi lewat menu whatsapp.
+    </string>
+    <string name="process_checkout">PROCESS CHECKOUT</string>
+
+    <!--All data ActivityArtikelDetail.java -->
+    <string name="featured">featured</string>
+
+    <!--All data for ActivityDialogNotifikasi.java -->
+    <string name="title_notif_details">Detail notifikasi</string>
+    <string name="title_notif">Notifikasi</string>
+
+    <!--All data ActivityFullGambar.java -->
+    <string name="image_of">%1$d of %2$d</string>
+
+    <!--All data related about page-->
+    <!--Size three array below must be same -->
+    <string-array name="about_title_array">
+        <item>SELAMAT DATANG</item>
+        <item>BANYAK PRODUK</item>
+        <item>TAMBAH KE KERANJANG</item>
+        <item>VERIFIKASI DAN TERIMA</item>
+    </string-array>
+
+    <string-array name="about_description_array">
+        <item>HidroponikPedia</item>
+        <item>Kemudahan mencari berbagai produk\nDengan harga terjangkau</item>
+        <item>Tambah produk ke keranjang\ndan Checkout untuk pesan</item>
+        <item>Kami akan Verifikasi pesanan anda melalui sms\nSetelah Anda melakukan konfirmasi kode pesan ke CS : 085 838 335 000</item>
+    </string-array>
+
+    <integer-array name="about_images_array">
+        <item>@drawable/intro_img_1</item>
+        <item>@drawable/intro_img_2</item>
+        <item>@drawable/intro_img_3</item>
+        <item>@drawable/intro_img_4</item>
+    </integer-array>
+
+    <!-- Activity Setting : xml/setting_preference.xml -->
+    <string name="app_version">Version</string>
+    <string name="developer_email">admin@hijaumulia.co.id</string>
+    <string name="copyright">Copyright © 2018.</string>
+
+    <string name="pref_group_notif">NOTIFIKASI</string>
+    <string name="pref_group_others">LAINNYA</string>
+    <string name="pref_title_notif">Push Notifikasi</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="pref_title_copyright">Copyright</string>
+    <string name="pref_title_contact_us">Contact Us</string>
+    <string name="pref_title_build">Build Version &amp; Serial </string>
+    <string name="pref_title_term">Term &amp; Policies</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="grant_permission_storage">Grant storage permission to enable</string>
+    <string name="version_unknown">Unknown</string>
+
+
+    <!-- Other String -->
+    <string name="failed_text">Gagal Loading</string>
+    <string name="no_internet_text">Tidak ada koneksi internet</string>
+    <string name="no_item">No Item</string>
+    <string name="msg_data_loaded">Laoding Selesai</string>
+    <string name="msg_failed_load_data">Gagal Loading</string>
+    <string name="title_delete_confirm">Konfirmasi Hapus</string>
+    <string name="content_delete_confirm">Yakin ingin menghapus semua&#160;</string>
+    <string name="delete_success">Delete berhasil</string>
+    <string name="msg_copied_clipboard">Text berhasil di salin</string>
+    <string name="failed">Gagal</string>
+    <string name="wa">Perhatian fitur chat pada aplikasi ini menggunakan aplikasi pihak kedua, yaitu Whatsapp. Silahkan Klik Lanjutkan jika setuju !
+    Anda akan terhubung ke service center kami.</string>
+    <string name="konf_wa">Konfirmasi Kode Pemesanan</string>
+    <string name="OK">OK</string>
+    <string name="GOT_IT">GOT IT</string>
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
+    <string name="SETTING">SETTING</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="CLOSE">CLOSE</string>
+    <string name="UPDATE">UPDATE</string>
+    <string name="DISMISS">DISMISS</string>
+    <string name="HIDE">HIDE</string>
+    <string name="RETRY">RETRY</string>
+    <string name="TRY_AGAIN">TRY AGAIN</string>
+    <string name="DETAILS">DETAILS</string>
+    <string name="FAILED">Gagal</string>
+    <string name="TYPE_SEARCH">SEARCH</string>
+    <string name="NO_IMAGE">NO IMAGE</string>
+    <string name="DELETE">DELETE</string>
+    <string name="OPEN">OPEN</string>
+    <string name="SAVE">SAVE</string>
+    <string name="NEXT">NEXT</string>
+    <string name="SKIP">SKIP</string>
+
+</resources>

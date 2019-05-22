@@ -1,0 +1,4 @@
+#Wed Jan 02 10:46:48 GMT+07:00 2019
+base.0=D\:\\HidroponikSHop\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=D\:\\HidroponikSHop\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex
