@@ -2,8 +2,8 @@ package com.app.hidroponik.data;
 
 public class Constant {
 
-    public static String WEB_URL = "http://store.hidroponikpedia.com/";
-    public static final String SECURITY_CODE = "kZVN9qUWW2sxbYicoueq5mtH8WR25nZAUwiGS1kF4omZck9USjBIOQLf9nVk26eOlcjsRJgbpBc452sWkc7i2dTYmsf1giyVUS0j";
+    public static String WEB_URL = "";
+    public static final String SECURITY_CODE = "";
     public static int OPEN_COUNTER = 50;
 
 
